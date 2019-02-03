@@ -16,3 +16,7 @@ Once the test-runner is watching, you can isolate files by pressing `p` and typi
 
 Contributions are welcome!
 Just fork, clone, and submit a PR.
+
+## Credit
+
+This is a clone of https://github.com/shanebarringer/js-katas
